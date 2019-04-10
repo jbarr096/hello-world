@@ -1,3 +1,2 @@
-# hello-world
-just another repository 
- This is my read me and I am learning Git Hub
+This is my read me 
+-I am learning Git Hub
